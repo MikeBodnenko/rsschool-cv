@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;       
+}
+.Text-block {
+    background-color: blue;
+    display: block;
+    width: 169px;
+    height: 18px;
+    overflow: hidden;
+}
+.Text-block:hover 
+{
+    background-color: red;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(18, 238, 48); 
+    text-align: center;
+}
+.card-hello {
+    width: 230px;
+    height: 55px;
+    padding: 20px;
+    margin: 10px;
+    color: #fff;
+    font-size: 30px;
+    background-color: #0028d8;
+    border: 3px solid #c50ae6;
+  }
